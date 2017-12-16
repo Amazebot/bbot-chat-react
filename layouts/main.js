@@ -24,12 +24,13 @@ export default ({ children }) => (
       }
       div.chat {
         position: relative;
-        height: 100%;
-        max-width: 620px;
-        min-width: 50%;
+        height: 75%;
         max-height: 620px;
-        min-height: 50%;
+        width: 50%;
+        min-width: 320px
+        max-width: 620px;
         background: rgba(255,255,255,0.9);
+        box-shadow: 2px 2px 30px 0px rgba(0,0,0,0.10);
         border-radius: 4px;
         overflow: hidden;
       }

@@ -1,7 +1,7 @@
 export default () => (
   <nav role='navigation'>
     <header>
-      <p className='title'>bBot web adapter</p>
+      <p>#CHAT</p>
     </header>
     <style jsx>{`
       nav {
@@ -18,6 +18,8 @@ export default () => (
       header {
         overflow: auto;
         padding: 0 20px;
+        font-weight: normal;
+        color: #aaa
       }
     `}</style>
   </nav>
