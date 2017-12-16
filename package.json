@@ -1,0 +1,19 @@
+{
+  "name": "bbot-chat-react",
+  "version": "0.0.0-development",
+  "description": "Platform adapter for chatting with bBot in a React web front-end",
+  "main": "index.js",
+  "repository": "git@github.com:Amazebot/bbot-chat-react.git",
+  "author": "Tim Kinnane <tk@amazebot.chat>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
