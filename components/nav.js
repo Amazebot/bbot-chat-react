@@ -19,7 +19,7 @@ export default () => (
         overflow: auto;
         padding: 0 20px;
         font-weight: normal;
-        color: #aaa
+        color: #aaa;
       }
     `}</style>
   </nav>
